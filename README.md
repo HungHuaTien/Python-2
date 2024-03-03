@@ -28,6 +28,8 @@ https://teams.microsoft.com/l/meetup-join/19%3ap1nPOkGSfpb4TkHhYeTCGt4GXSQj5mftB
 1. 課程綱要
 2. 問卷調查：https://forms.gle/y3JC3r3zjQKZz8TBA
 3. 課程錄影
+   
     https://youtu.be/TVoAYTTcLUg
+   
     https://youtu.be/s8LlqNw7I4Q
 
