@@ -14,6 +14,7 @@
 1. Unit 1 認識電腦
 2. Unit 2 用Python
 3. 上課錄影:https://youtu.be/GXblmTVSxbs
+   
    https://youtu.be/BVBgs2hzk2Q
 
 
