@@ -13,9 +13,10 @@
 
 1. Unit 1 認識電腦
 2. Unit 2 用Python
-3. MS Teams:
+3. 上課錄影:https://youtu.be/GXblmTVSxbs
+   https://youtu.be/BVBgs2hzk2Q
 
-https://teams.microsoft.com/l/meetup-join/19%3ap1nPOkGSfpb4TkHhYeTCGt4GXSQj5mftBm7FB4jgBvs1%40thread.tacv2/1709418942405?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 
 
 ### Week 2 2024/02/28 （三）
