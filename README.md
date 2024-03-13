@@ -15,9 +15,8 @@
 1. Unit 2 用Python
 2. 作業繳交連結：https://forms.gle/gaM56BLW5AW76uw59
 3. 上課錄影
-   https://youtu.be/6pEnLOOPlaw
-
-https://youtu.be/qwXzCM8MjFQ
+   - https://youtu.be/6pEnLOOPlaw
+   - https://youtu.be/qwXzCM8MjFQ
    
 
 ### Week 3 2024/03/06 （三）
