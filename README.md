@@ -14,9 +14,11 @@
 
 1. Unit 2 用Python
 2. 作業繳交連結：https://forms.gle/gaM56BLW5AW76uw59
-3. MS Teams
+3. 上課錄影
+   https://youtu.be/6pEnLOOPlaw
 
-https://teams.microsoft.com/l/meetup-join/19%3ap1nPOkGSfpb4TkHhYeTCGt4GXSQj5mftBm7FB4jgBvs1%40thread.tacv2/1710036241531?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+https://youtu.be/qwXzCM8MjFQ
+   
 
 ### Week 3 2024/03/06 （三）
 
